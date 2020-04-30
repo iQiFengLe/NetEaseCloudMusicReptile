@@ -12,4 +12,6 @@ composer install
 
 npm install @nesk/puphpeteer
 
+### 别忘了执行
+composer dump-autoload
 
